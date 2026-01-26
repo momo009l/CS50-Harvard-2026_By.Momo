@@ -53,11 +53,20 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
   * [Recover](/)
 - - - 
 - [Week 5 |แบบฝึกหัด:  Data Structures](/Week%2005)
-
+  * [Inheritance](/)
+  * [Speller](/)
 
 - - -
 - [Week 6 |แบบฝึกหัด:  Python](/Week%2006)
-
+* [Hello](/)
+  * Mario  
+    + [less](/)
+    + [more](/)
+  * Cash
+    + [less](/)
+    + [more](/)
+  * [Readability](/)
+  * [DNA](/)
 
 - - -
 - [Week 7 |แบบฝึกหัด:  SQL](/Week%2007)
