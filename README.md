@@ -37,7 +37,7 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
 - - -
 - [Week 7 |แบบฝึกหัด 7:  SQL](/Week%2007)
 - - -
-- [Artificial Intelligence](/)
+- [Week 8 |Artificial Intelligence](/Week%2008)
 - - -
 - [Week 8 |แบบฝึกหัด 8:  HTML, CSS, JavaScript](/Week%2008)
 - - -
