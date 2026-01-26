@@ -28,7 +28,8 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
   * Cash
     + [less](/)
     + [more](/)
-- - -
+
+
 - [Week 2 |แบบฝึกหัด: Arrays](/Week%2002)
   * [Scrabble](/)
   * [Readability](/)
@@ -36,7 +37,8 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
     + [less](/)
   * Substitution
     + [more](/)
-- - -
+
+ 
 - [Week 3 |แบบฝึกหัด: Algorithms](/Week%2003)
   * [Sort](/)
   * [Plurality](/)
@@ -44,21 +46,23 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
     + [more or less](/)
   * Tideman
     + [very, very, very](/)
-- - -
+
+
 - [Week 4 |แบบฝึกหัด: Memory](/Week%2004)
   * [Volume](/)
   * Filter 
     + [less](/)
     + [more](/)
   * [Recover](/)
-- - - 
+
+
 - [Week 5 |แบบฝึกหัด:  Data Structures](/Week%2005)
   * [Inheritance](/)
   * [Speller](/)
 
-- - -
+
 - [Week 6 |แบบฝึกหัด:  Python](/Week%2006)
-* [Hello](/)
+  * [Hello](/)
   * Mario  
     + [less](/)
     + [more](/)
@@ -68,25 +72,25 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
   * [Readability](/)
   * [DNA](/)
 
-- - -
+
 - [Week 7 |แบบฝึกหัด:  SQL](/Week%2007)
+  * [Songs](/)
+  * [Movies](/)
+  * [Fiftyville](/)
 
 
-- - -
-- [Week 8 |Artificial Intelligence](/Week%2008)
-
-
-- - -
 - [Week 8 |แบบฝึกหัด:  HTML, CSS, JavaScript](/Week%2008)
+  * [Trivia](/)
+  * [Homepage](/)
 
 
-- - -
 - [Week 9 |แบบฝึกหัด:  Flask](/Week%2009)
+  * [Birthdays](/)
+  * [Finance](/)
 
 
-- - -
 - [Week 10 |แบบฝึกหัด:  The End](/Week%2010)
-
+  * Final Project 
 
 
 
