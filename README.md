@@ -30,7 +30,12 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
     + [more](/)
 - - -
 - [Week 2 |แบบฝึกหัด 2: Arrays](/Week%2002)
-
+  * [Scrabble](/)
+  * [Readability](/)
+  * Caesar
+  * [less](/)
+  * Substitution
+  * [more](/)
 - - -
 - [Week 3 |แบบฝึกหัด 3: Algorithms](/Week%2003)
 
