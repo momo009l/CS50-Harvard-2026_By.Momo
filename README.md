@@ -19,10 +19,13 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
 
 # 🗃️ สารบัญ (Table of Contents)
 - [Week 1 | แบบฝึกหัด 1: C](/Week%2001)
-  * [hello](/)
-  * [cash](/)
+  * [Hello,World.](/)
+  * [Hello,It’s Me.](/)
   * [credit](/)
   * mario
+    + [less](/)
+    + [more](/)
+  * Cash
     + [less](/)
     + [more](/)
 - - -
