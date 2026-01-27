@@ -34,7 +34,7 @@ basically dying and respawning in a loop :sob:☠️
 📔 [Week 1 | แบบฝึกหัด: C](/Week%2001)
   * [Hello,World.](/)
   * [Hello,It’s Me.](/)
-  * [credit](/)
+  * [Credit](/)
   * mario
     + [less](/)
     + [more](/)
