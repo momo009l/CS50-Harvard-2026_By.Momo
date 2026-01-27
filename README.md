@@ -32,7 +32,7 @@ basically dying and respawning in a loop :sob:☠️
 
 # 🗃️ สารบัญ (Table of Contents)
 📔 [Week 1 | แบบฝึกหัด: C](/Week%2001)
-  * [Hello,World.](/01-Hello,World./Hello,World.)
+  * [Hello,World.](/Week%2001/01-Hello%2CWorld.)
   * [Hello,It’s Me.](/)
   * [Credit](/)
   * Mario
