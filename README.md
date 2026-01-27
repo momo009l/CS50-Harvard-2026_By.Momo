@@ -39,8 +39,8 @@ basically dying and respawning in a loop :sob:☠️
     + [less](/Week%2001/04-Mario/01_Mario-less)
     + [more](/Week%2001/04-Mario/02_Mario-more)
   * Cash
-    + [less](/)
-    + [more](/)
+    + [less](/Week%2001/05-Cash/01_Cash-less)
+    + [more](/Week%2001/05-Cash/02_Cash-more)
 
 
 📔 [Week 2 |แบบฝึกหัด: Arrays](/Week%2002)
