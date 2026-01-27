@@ -31,7 +31,7 @@ basically dying and respawning in a loop :sob:☠️
 
 
 # 🗃️ สารบัญ (Table of Contents)
-📔 [Week 1 | แบบฝึกหัด: C](/01-Hello%2CWorld.)
+📔 [Week 1 | แบบฝึกหัด: C](/01-Hello,World.)
   * [Hello,World.](/Hello%2CWorld.)
   * [Hello,It’s Me.](/Hello%2CIt’s%20Me.)
   * [Credit](/03-Credit)
