@@ -113,3 +113,7 @@ basically dying and respawning in a loop :sob:☠️
 
 
 
+> Even if you’re not good at English, not confident in yourself, or scared that you won’t be able to do it. I want you to know that this feeling is completely normal. Most people start CS50 with doubts like this. CS50 doesn’t force everyone to learn in the same way. There’s no fixed formula that says you have to do things exactly like others. Everyone has their own way of learning and writing code.
+Some people follow the lecture step by step, some people explore outside of it, and that’s okay. What really matters is not how you write your code, but whether you understand the idea and can keep moving forward. CS50 doesn’t judge your process. It looks at whether you understand the problem and can solve it in your own way. So if you don’t enjoy rigid, step-by-step teaching, or if traditional learning systems never really worked for you, this might be another path worth trying 🫶
+
+
