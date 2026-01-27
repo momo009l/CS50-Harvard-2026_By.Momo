@@ -31,16 +31,16 @@ basically dying and respawning in a loop :sob:☠️
 
 
 # 🗃️ สารบัญ (Table of Contents)
-📔 [Week 1 | แบบฝึกหัด: C](/Hello%2CWorld.)
-  * [Hello,World.](/Hello%2CWorld.)
-  * [Hello,It’s Me.](/Hello%2CIt’s%20Me.)
-  * [Credit](/03-Credit)
+📔 [Week 1 | แบบฝึกหัด: C](/Hello,World.)
+  * [Hello,World.](/)
+  * [Hello,It’s Me.](/)
+  * [Credit](/)
   * Mario
-    + [less](/01_Mario-less)
-    + [more](/02_Mario-more)
+    + [less](/)
+    + [more](/)
   * Cash
-    + [less](/01_Cash-less)
-    + [more](/02_Cash-more)
+    + [less](/)
+    + [more](/)
 
 
 📔 [Week 2 |แบบฝึกหัด: Arrays](/Week%2002)
