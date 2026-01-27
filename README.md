@@ -32,15 +32,15 @@ basically dying and respawning in a loop :sob:☠️
 
 # 🗃️ สารบัญ (Table of Contents)
 📔 [Week 1 | แบบฝึกหัด: C](/Week%2001)
-  * [Hello,World.](/)
-  * [Hello,It’s Me.](/)
-  * [Credit](/)
+  * [Hello,World.](/Hello%2CWorld.)
+  * [Hello,It’s Me.](/Hello%2CIt’s%20Me.)
+  * [Credit](/03-Credit)
   * Mario
-    + [less](/)
-    + [more](/)
+    + [less](/01_Mario-less)
+    + [more](/02_Mario-more)
   * Cash
-    + [less](/)
-    + [more](/)
+    + [less](/01_Cash-less)
+    + [more](/02_Cash-more)
 
 
 📔 [Week 2 |แบบฝึกหัด: Arrays](/Week%2002)
