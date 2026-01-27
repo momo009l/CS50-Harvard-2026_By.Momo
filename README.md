@@ -35,7 +35,7 @@ basically dying and respawning in a loop :sob:☠️
   * [Hello,World.](/)
   * [Hello,It’s Me.](/)
   * [Credit](/)
-  * mario
+  * Mario
     + [less](/)
     + [more](/)
   * Cash
