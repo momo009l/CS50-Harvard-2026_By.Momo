@@ -33,11 +33,11 @@ basically dying and respawning in a loop :sob:☠️
 # 🗃️ สารบัญ (Table of Contents)
 📔 [Week 1 | แบบฝึกหัด: C](/Week%2001)
   * [Hello,World.](/Week%2001/01-Hello%2CWorld.)
-  * [Hello,It’s Me.](/)
-  * [Credit](/)
+  * [Hello,It’s Me.](/Week%2001/02-Hello%2CIt’s%20Me.)
+  * [Credit](/Week%2001/03-Credit)
   * Mario
-    + [less](/)
-    + [more](/)
+    + [less](/Week%2001/04-Mario/01_Mario-less)
+    + [more](/Week%2001/04-Mario/02_Mario-more)
   * Cash
     + [less](/)
     + [more](/)
