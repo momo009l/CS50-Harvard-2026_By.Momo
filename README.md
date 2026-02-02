@@ -9,7 +9,7 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
 > 
 > (might be a bit playful, but I’m seriously learning 😼)
 
-
+# 📃 Thai Translation (ฉบับแปลภาษาไทย) 
 ## 🤔 ทำไมถึงเรียน CS50
 เราเรียนเพราะเริ่มจาก"วิธีคิด"ก่อนเขียนโปรเเกรม อยากรู้ว่าโปรเเกรมคืออะไร โค้ดลักษณะเป็นยังไง
 วิธีรันเเละวิธีเเก้โค้ดทำยังไงให้มันไปต่อได้ เราก็ไม่ได้เก่งอังกฤษอะไร** 
@@ -124,11 +124,11 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
 เเน่นอนว่าเเต่ละคนมีวิธีการเขียนโค้ด การเรียนรู้ต่างกัน ระบบนี้เขาไม่สนว่าคุณจะใช้วิธีไหนเขียนโค้ดมันออกมา บางคนก็ตรงตามที่เขาสอน 
 บางคนก็มีหลุดข้างนอกบ้าง เขาดูว่า"คุณเข้าใจเเละไปต่อได้ไหม" ถ้าคุณไม่ถนัดการเรียนเเบบขั้นตอนหรือไม่ชอบระบบการสอน ที่นี่ก็อาจจะเป็นอีกทางเลือกหนึ่งที่คุณลองได้ค่ะ 😋
 
+- - -
 
 
-
-
-## What I'm Iearning From CS50?
+# 📃 English Translation (ฉบับแปลภาษาอังกฤษ)
+## ☘️ What I'm Iearning From CS50?
 I started CS50 because I wanted to learn how to think before learning how to code.
 I wanted to understand what a program really is, what code looks like, how it runs, and how to fix it when things don’t work.
 My English isn’t that strong, but I wanted to begin with the structure, system, big picture, and the “why” behind it all first.
@@ -137,11 +137,11 @@ Even if I don’t understand every single line, I keep going anyway
 basically dying and respawning in a loop :sob:☠️
 
 
-## How I Iearn CS50 BY Momo :PPP 
+## 📝 How I Iearn CS50 BY Momo :PPP 
 I honestly started from zero. Like… I didn’t know anything about programming or code at all. So I began by answering the questions I kept wondering about: What is a program? How does code actually run? Why do we do it this way? Once I understood the basics, I just jumped into doing it for real. I watched the lectures and followed what they taught what tools they used and what the lesson was about. Since my English isn’t great, I use help when I need it (like AI) to translate sentences, explain vocabulary, or clarify parts I don’t understand. But I always make sure I watch the video first no skipping :smirk_cat: And then comes the “die and respawn” loop. When I get stuck, confused, frustrated, or my code refuses to run… I’ll literally roast my own code until I calm down :joy: Then I come back and try again. Sometimes I also play music instrumentals only. If the song has lyrics, my brain gets distracted and it’s harder to focus. So I just use music to keep my mood stable :notes:
 
 
-## What I got From CS50
+## 💫 What I got From CS50
 CS50 teaches you how to think in a structured way, like a real problem-solver. The most important thing is: it forces you to think before you act. If you don’t think first, you’ll fall into a hole and get stuck. It’s not about writing “pretty code.” It’s about writing code that actually solves the problem. It also trains you to break a big problem into smaller pieces like turning it into little KFC nuggets :poultry_leg: You survive one piece at a time, and eventually those small pieces connect into something bigger. It builds patience, endurance, and the mindset of: “Even if I’m tired, I’ll rest and come back again.” You learn how to check step-by-step, like you’re scanning for hidden landmines. Fix one part, run it again. If it still fails… repeat. And the biggest lesson of all: having the courage to not know. You don’t have to understand everything at once. Even if I don’t get every line right now, I’ll keep going and understanding will come later. It gave me confidence, the ability to learn by myself, and the courage to keep trying. (Also… I’m craving nuggets now :drooling_face:)
 
 # 🗃️ Table of Contents
@@ -220,6 +220,6 @@ CS50 teaches you how to think in a structured way, like a real problem-solver. T
   * Final Project 😈
 
 
-## Anyone can start, even from zero
+## 🔥 Anyone can start, even from zero
 Even if you’re not good at English, not confident in yourself, or scared that you won’t be able to do it. I want you to know that this feeling is completely normal. Most people start CS50 with doubts like this. CS50 doesn’t force everyone to learn in the same way. There’s no fixed formula that says you have to do things exactly like others. Everyone has their own way of learning and writing code.
-Some people follow the lecture step by step, some people explore outside of it, and that’s okay. What really matters is not how you write your code, but whether you understand the idea and can keep moving forward. CS50 doesn’t judge your process. It looks at whether you understand the problem and can solve it in your own way. So if you don’t enjoy rigid, step-by-step teaching, or if traditional learning systems never really worked for you, this might be another path worth trying 🫶
+Some people follow the lecture step by step, some people explore outside of it, and that’s okay. What really matters is not how you write your code, but whether you understand the idea and can keep moving forward. CS50 doesn’t judge your process. It looks at whether you understand the problem and can solve it in your own way. So if you don’t enjoy rigid, step-by-step teaching, or if traditional learning systems never really worked for you, this might be another path worth trying 😋
