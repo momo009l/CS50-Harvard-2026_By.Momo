@@ -128,7 +128,7 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
 
 
 # 📃 English Translation (ฉบับแปลภาษาอังกฤษ)
-## ☘️ What I'm Iearning From CS50?
+## ☘️ What I'm Learning From CS50?
 I started CS50 because I wanted to learn how to think before learning how to code.
 I wanted to understand what a program really is, what code looks like, how it runs, and how to fix it when things don’t work.
 My English isn’t that strong, but I wanted to begin with the structure, system, big picture, and the “why” behind it all first.
@@ -137,7 +137,7 @@ Even if I don’t understand every single line, I keep going anyway
 basically dying and respawning in a loop :sob:☠️
 
 
-## 📝 How I Iearn CS50 BY Momo :PPP 
+## 📝 How I Learn CS50 BY Momo :PPP 
 I honestly started from zero. Like… I didn’t know anything about programming or code at all. So I began by answering the questions I kept wondering about: What is a program? How does code actually run? Why do we do it this way? Once I understood the basics, I just jumped into doing it for real. I watched the lectures and followed what they taught what tools they used and what the lesson was about. Since my English isn’t great, I use help when I need it (like AI) to translate sentences, explain vocabulary, or clarify parts I don’t understand. But I always make sure I watch the video first no skipping :smirk_cat: And then comes the “die and respawn” loop. When I get stuck, confused, frustrated, or my code refuses to run… I’ll literally roast my own code until I calm down :joy: Then I come back and try again. Sometimes I also play music instrumentals only. If the song has lyrics, my brain gets distracted and it’s harder to focus. So I just use music to keep my mood stable :notes:
 
 
