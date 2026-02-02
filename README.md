@@ -41,8 +41,8 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
 ได้ทั้งความมั่นใจ การลองผิดลองถูกเเละเรียนรู้ด้วยตัวเองจริงๆ (อยากนัทเก็ตอะหิวเลย 🤤)
 
 
-# 🗃️ สารบัญ (Table of Contents)
-📔 [Week 1 | แบบฝึกหัด: C](/Week%2001)
+# 🗃️ สารบัญ 
+📔 [แบบฝึกหัด 1 : C](/Week%2001)
   * [Hello,World.](/Week%2001/01-Hello%2CWorld.)
   * [Hello,It’s Me.](/Week%2001/02-Hello%2CIt’s%20Me.)
   * [Credit](/Week%2001/03-Credit)
@@ -54,7 +54,7 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
     + [more](/Week%2001/05-Cash/02_Cash-more)
 
 
-📔 [Week 2 |แบบฝึกหัด: Arrays](/Week%2002)
+📔 [แบบฝึกหัด 2 : Arrays](/Week%2002)
   * [Scrabble](/)
   * [Readability](/)
   * Caesar
@@ -63,7 +63,7 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
     + [more](/)
 
  
-📔 [Week 3 |แบบฝึกหัด: Algorithms](/Week%2003)
+📔 [แบบฝึกหัด 3 : Algorithms](/Week%2003)
   * [Sort](/)
   * [Plurality](/)
   * Runoff
@@ -72,7 +72,7 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
     + [very, very, very](/)
 
 
-📔 [Week 4 |แบบฝึกหัด: Memory](/Week%2004)
+📔 [แบบฝึกหัด 4 : Memory](/Week%2004)
   * [Volume](/)
   * Filter 
     + [less](/)
@@ -80,12 +80,12 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
   * [Recover](/)
 
 
-📔 [Week 5 |แบบฝึกหัด:  Data Structures](/Week%2005)
+📔 [แบบฝึกหัด 5 :  Data Structures](/Week%2005)
   * [Inheritance](/)
   * [Speller](/)
 
 
-📔 [Week 6 |แบบฝึกหัด:  Python](/Week%2006)
+📔 [แบบฝึกหัด 6 :  Python](/Week%2006)
   * [Hello](/)
   * Mario  
     + [less](/)
@@ -97,35 +97,35 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
   * [DNA](/)
 
 
-📔 [Week 7 |แบบฝึกหัด:  SQL](/Week%2007)
+📔 [แบบฝึกหัด 7 :  SQL](/Week%2007)
   * [Songs](/)
   * [Movies](/)
   * [Fiftyville](/)
 
 
-📔 [Week 8 |แบบฝึกหัด:  HTML, CSS, JavaScript](/Week%2008)
+📔 [แบบฝึกหัด 8 :  HTML, CSS, JavaScript](/Week%2008)
   * [Trivia](/)
   * [Homepage](/)
 
 
-📔 [Week 9 |แบบฝึกหัด:  Flask](/Week%2009)
+📔 [แบบฝึกหัด 9 :  Flask](/Week%2009)
   * [Birthdays](/)
   * [Finance](/)
 
 
-📔 [Week 10 |แบบฝึกหัด:  The End](/Week%2010)
+📔 [แบบฝึกหัด 10 :  The End](/Week%2010)
   * Final Project 😈
 
 
 
 ## ❤️‍🔥 ใครๆก็เริ่มได้เเม้จะเริ่มจาก 0 ก็ตาม
-> "ถึงจะไม่เก่งอะไรก็ชั่งทั้งอังกฤษ ไม่มั่นใจในตัวเองหรือกลัวจะทำไม่ได้" บอกเลยว่ามันเป็นเรื่องปกติที่ทุกคนจะเป็นกันค่ะ เเต่ CS50 ไม่ได้บังคับให้ทุกคนเรียนเหมือนกัน "ไม่มีสูตรตายตัวว่าจะต้องทำเหมือนคนอื่นๆนะ"
-เเน่นอนว่าเเต่ละคนมีวิธีการเขียนโค้ด การเรียนรู้ต่างกัน ระบบนี้เขาไม่สนว่าคุณจะใช้วิธีไหนเขียนโค้ดมันออกมา บางคนก็ตรงตามที่เขาสอน บางคนก็มีหลุดข้างนอกบ้าง เขาดูว่า"คุณเข้าใจเเละไปต่อได้ไหม" ถ้าคุณไม่ถนัดการเรียนเเบบขั้นตอนหรือไม่ชอบระบบการสอน ที่นี่ก็อาจจะเป็นอีกทางเลือกหนึ่งที่คุณลองได้ค่ะ 😋
+"ถึงจะไม่เก่งอะไรก็ชั่งทั้งอังกฤษ ไม่มั่นใจในตัวเองหรือกลัวจะทำไม่ได้" บอกเลยว่ามันเป็นเรื่องปกติที่ทุกคนจะเป็นกันค่ะ 
+เเต่ CS50 ไม่ได้บังคับให้ทุกคนเรียนเหมือนกัน "ไม่มีสูตรตายตัวว่าจะต้องทำเหมือนคนอื่นๆนะ"
+เเน่นอนว่าเเต่ละคนมีวิธีการเขียนโค้ด การเรียนรู้ต่างกัน ระบบนี้เขาไม่สนว่าคุณจะใช้วิธีไหนเขียนโค้ดมันออกมา บางคนก็ตรงตามที่เขาสอน 
+บางคนก็มีหลุดข้างนอกบ้าง เขาดูว่า"คุณเข้าใจเเละไปต่อได้ไหม" ถ้าคุณไม่ถนัดการเรียนเเบบขั้นตอนหรือไม่ชอบระบบการสอน ที่นี่ก็อาจจะเป็นอีกทางเลือกหนึ่งที่คุณลองได้ค่ะ 😋
 
 
 
-> Even if you’re not good at English, not confident in yourself, or scared that you won’t be able to do it. I want you to know that this feeling is completely normal. Most people start CS50 with doubts like this. CS50 doesn’t force everyone to learn in the same way. There’s no fixed formula that says you have to do things exactly like others. Everyone has their own way of learning and writing code.
-Some people follow the lecture step by step, some people explore outside of it, and that’s okay. What really matters is not how you write your code, but whether you understand the idea and can keep moving forward. CS50 doesn’t judge your process. It looks at whether you understand the problem and can solve it in your own way. So if you don’t enjoy rigid, step-by-step teaching, or if traditional learning systems never really worked for you, this might be another path worth trying 🫶
 
 
 ## What I'm Iearning From CS50?
@@ -136,8 +136,90 @@ Then I slowly build vocabulary and understanding along the way.
 Even if I don’t understand every single line, I keep going anyway
 basically dying and respawning in a loop :sob:☠️
 
+
 ## How I Iearn CS50 BY Momo :PPP 
 I honestly started from zero. Like… I didn’t know anything about programming or code at all. So I began by answering the questions I kept wondering about: What is a program? How does code actually run? Why do we do it this way? Once I understood the basics, I just jumped into doing it for real. I watched the lectures and followed what they taught what tools they used and what the lesson was about. Since my English isn’t great, I use help when I need it (like AI) to translate sentences, explain vocabulary, or clarify parts I don’t understand. But I always make sure I watch the video first no skipping :smirk_cat: And then comes the “die and respawn” loop. When I get stuck, confused, frustrated, or my code refuses to run… I’ll literally roast my own code until I calm down :joy: Then I come back and try again. Sometimes I also play music instrumentals only. If the song has lyrics, my brain gets distracted and it’s harder to focus. So I just use music to keep my mood stable :notes:
 
+
 ## What I got From CS50
 CS50 teaches you how to think in a structured way, like a real problem-solver. The most important thing is: it forces you to think before you act. If you don’t think first, you’ll fall into a hole and get stuck. It’s not about writing “pretty code.” It’s about writing code that actually solves the problem. It also trains you to break a big problem into smaller pieces like turning it into little KFC nuggets :poultry_leg: You survive one piece at a time, and eventually those small pieces connect into something bigger. It builds patience, endurance, and the mindset of: “Even if I’m tired, I’ll rest and come back again.” You learn how to check step-by-step, like you’re scanning for hidden landmines. Fix one part, run it again. If it still fails… repeat. And the biggest lesson of all: having the courage to not know. You don’t have to understand everything at once. Even if I don’t get every line right now, I’ll keep going and understanding will come later. It gave me confidence, the ability to learn by myself, and the courage to keep trying. (Also… I’m craving nuggets now :drooling_face:)
+
+# 🗃️ Table of Contents
+📔 [Week 1 : C](/Week%2001)
+  * [Hello,World.](/Week%2001/01-Hello%2CWorld.)
+  * [Hello,It’s Me.](/Week%2001/02-Hello%2CIt’s%20Me.)
+  * [Credit](/Week%2001/03-Credit)
+  * Mario
+    + [less](/Week%2001/04-Mario/01_Mario-less)
+    + [more](/Week%2001/04-Mario/02_Mario-more)
+  * Cash
+    + [less](/Week%2001/05-Cash/01_Cash-less)
+    + [more](/Week%2001/05-Cash/02_Cash-more)
+
+
+📔 [Week 2 : Arrays](/Week%2002)
+  * [Scrabble](/)
+  * [Readability](/)
+  * Caesar
+    + [less](/)
+  * Substitution
+    + [more](/)
+
+ 
+📔 [Week 3 : Algorithms](/Week%2003)
+  * [Sort](/)
+  * [Plurality](/)
+  * Runoff
+    + [more or less](/)
+  * Tideman
+    + [very, very, very](/)
+
+
+📔 [Week 4 : Memory](/Week%2004)
+  * [Volume](/)
+  * Filter 
+    + [less](/)
+    + [more](/)
+  * [Recover](/)
+
+
+📔 [Week 5 :  Data Structures](/Week%2005)
+  * [Inheritance](/)
+  * [Speller](/)
+
+
+📔 [Week 6 :  Python](/Week%2006)
+  * [Hello](/)
+  * Mario  
+    + [less](/)
+    + [more](/)
+  * Cash
+    + [less](/)
+    + [more](/)
+  * [Readability](/)
+  * [DNA](/)
+
+
+📔 [Week 7 :  SQL](/Week%2007)
+  * [Songs](/)
+  * [Movies](/)
+  * [Fiftyville](/)
+
+
+📔 [Week 8 :  HTML, CSS, JavaScript](/Week%2008)
+  * [Trivia](/)
+  * [Homepage](/)
+
+
+📔 [Week 9 :  Flask](/Week%2009)
+  * [Birthdays](/)
+  * [Finance](/)
+
+
+📔 [Week 10 :  The End](/Week%2010)
+  * Final Project 😈
+
+
+## Anyone can start, even from zero
+Even if you’re not good at English, not confident in yourself, or scared that you won’t be able to do it. I want you to know that this feeling is completely normal. Most people start CS50 with doubts like this. CS50 doesn’t force everyone to learn in the same way. There’s no fixed formula that says you have to do things exactly like others. Everyone has their own way of learning and writing code.
+Some people follow the lecture step by step, some people explore outside of it, and that’s okay. What really matters is not how you write your code, but whether you understand the idea and can keep moving forward. CS50 doesn’t judge your process. It looks at whether you understand the problem and can solve it in your own way. So if you don’t enjoy rigid, step-by-step teaching, or if traditional learning systems never really worked for you, this might be another path worth trying 🫶
