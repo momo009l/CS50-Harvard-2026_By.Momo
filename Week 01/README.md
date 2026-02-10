@@ -12,3 +12,16 @@
 * [Credit](/Week%2001/03-Credit/credit.c) งานชิ้นที่ 3 คือ การใช้เงื่อนไขเเละตรรกะ
 * [Mario](/Week%2001/04-Mario) งานชิ้นที่ 4 คือ การใช้ลูปเเละการจัดรูปแบบ (มี 2 ประเภท คือ less และ more)
 * [Cash](/Week%2001/05-Cash) งานชิ้นที่ 5 คือ การคิดเชิงอัลกอริทึม (มี 2 ประเภท คือ less และ more)
+
+
+## 📃 English Translation (ฉบับแปลภาษาอังกฤษ)
+These works are based on the original fundamentals of the course, but I focus on 
+explaining my own approach to coding what each part of the code does, how it works, and why it is written that way.
+I don’t explain the code line by line while running it, because these programs are not something you just run once and get a final answer. There is no single “correct” solution. Instead, my code is shared as a reference and learning guideline that others can adapt and improve on. 😋
+
+### 📋 There are 5 projects in total:
+* [Hello,World.](/Week%2001/01-Hello%2CWorld./hello.c) Project 1 focuses on the basic structure of a C program.
+* [Hello,It’s Me.](/Week%2001/02-Hello%2CIt’s%20Me./Me.c) Project 2 is about getting input from the user (in this case, from myself).
+* [Credit](/Week%2001/03-Credit/credit.c) Project 3 covers conditions and logical reasoning.
+* [Mario](/Week%2001/04-Mario) Project 4 demonstrates the use of loops and formatting, with two versions: less and more.
+* [Cash](/Week%2001/05-Cash) Project 5 focuses on algorithmic thinking, also with two versions: less and more.
