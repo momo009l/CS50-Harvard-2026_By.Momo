@@ -1,18 +1,15 @@
 #include <stdio.h>
-#include <math.h>
 
 int main(void)
 {
-    float dollars;
-  
+    int cents;
+
     do
     {
         printf("Change owed: ");
-        scanf("%f" , &dollars);
+        scanf("%d", &cents);
     }
-    while (dollars <= 0);
-
-    int cents = round(dollars * 100);
+    while (cents < 0);
 
     int coins = 0;
 
