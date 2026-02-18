@@ -1,28 +1,62 @@
+#include <cs50.h>
 #include <stdio.h>
 
 int main(void)
 {
-    int cents;
+    long number = get_long("Number: ");
 
-    do
+    int sum = 0;
+    long n = number;
+    int position = 0;
+
+    while (n > 0)
     {
-        printf("Change owed: ");
-        scanf("%d", &cents);
+        int digit = n % 10;
+
+        if (position % 2 == 1)
+        {
+            int doubled = digit * 2;
+            sum += doubled / 10 + doubled % 10;
+        }
+        else
+        {
+            sum += digit;
+        }
+
+        n /= 10;
+        position++;
     }
-    while (cents < 0);
 
-    int coins = 0;
+    if (sum % 10 != 0)
+    {
+        printf("INVALID\n");
+        return 0;
+    }
 
-    coins += cents / 25;
-    cents %= 25;
+    int length = 0;
+    long start = number;
 
-    coins += cents / 10;
-    cents %= 10;
+    while (start >= 100)
+    {
+        start /= 10;
+        length++;
+    }
+    length += 2;
 
-    coins += cents / 5;
-    cents %= 5;
-
-    coins += cents;
-
-    printf("%d\n", coins);
+    if (length == 15 && (start == 34 || start == 37))
+    {
+        printf("AMEX\n");
+    }
+    else if (length == 16 && (start >= 51 && start <= 55))
+    {
+        printf("MASTERCARD\n");
+    }
+    else if ((length == 13 || length == 16) && (start / 10 == 4))
+    {
+        printf("VISA\n");
+    }
+    else
+    {
+        printf("INVALID\n");
+    }
 }
