@@ -42,7 +42,7 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
 
 
 # 🗃️ สารบัญ 
-📔 [แบบฝึกหัด 1 : C](/Week%2001)
+📔 [สัปดาห์ 1 : C](/Week%2001)
   * [Hello,World.](/Week%2001/01-Hello%2CWorld.)
   * [Hello,It’s Me.](/Week%2001/02-Hello%2CIt’s%20Me.)
   * [Credit](/Week%2001/03-Credit)
@@ -54,7 +54,7 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
     + [more](/Week%2001/05-Cash/02_Cash-more)
 
 
-📔 [แบบฝึกหัด 2 : Arrays](/Week%2002)
+📔 [สัปดาห์ 2 : Arrays](/Week%2002)
   * [Scrabble](/)
   * [Readability](/)
   * Caesar
@@ -63,7 +63,7 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
     + [more](/)
 
  
-📔 [แบบฝึกหัด 3 : Algorithms](/Week%2003)
+📔 [สัปดาห์ 3 : Algorithms](/Week%2003)
   * [Sort](/)
   * [Plurality](/)
   * Runoff
@@ -72,7 +72,7 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
     + [very, very, very](/)
 
 
-📔 [แบบฝึกหัด 4 : Memory](/Week%2004)
+📔 [สัปดาห์ 4 : Memory](/Week%2004)
   * [Volume](/)
   * Filter 
     + [less](/)
@@ -80,12 +80,12 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
   * [Recover](/)
 
 
-📔 [แบบฝึกหัด 5 :  Data Structures](/Week%2005)
+📔 [สัปดาห์ 5 :  Data Structures](/Week%2005)
   * [Inheritance](/)
   * [Speller](/)
 
 
-📔 [แบบฝึกหัด 6 :  Python](/Week%2006)
+📔 [สัปดาห์ 6 :  Python](/Week%2006)
   * [Hello](/)
   * Mario  
     + [less](/)
@@ -97,23 +97,23 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
   * [DNA](/)
 
 
-📔 [แบบฝึกหัด 7 :  SQL](/Week%2007)
+📔 [สัปดาห์ 7 :  SQL](/Week%2007)
   * [Songs](/)
   * [Movies](/)
   * [Fiftyville](/)
 
 
-📔 [แบบฝึกหัด 8 :  HTML, CSS, JavaScript](/Week%2008)
+📔 [สัปดาห์ 8 :  HTML, CSS, JavaScript](/Week%2008)
   * [Trivia](/)
   * [Homepage](/)
 
 
-📔 [แบบฝึกหัด 9 :  Flask](/Week%2009)
+📔 [สัปดาห์ 9 :  Flask](/Week%2009)
   * [Birthdays](/)
   * [Finance](/)
 
 
-📔 [แบบฝึกหัด 10 :  The End](/Week%2010)
+📔 [สัปดาห์ 10 :  The End](/Week%2010)
   * Final Project 😈
 
 
