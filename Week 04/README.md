@@ -16,8 +16,8 @@ explaining my own approach to coding what each part of the code does, how it wor
 I don’t explain the code line by line while running it, because these programs are not something you just run once and get a final answer. There is no single “correct” solution. Instead, my code is shared as a reference and learning guideline that others can adapt and improve on. 🧠
 
 ### 📋 There are 4 assignments in total:
-* [Volume](/) is about adjusting the volume level of an audio file.
+* [Volume](/Week%2004/01-Volume/Volume.c) is about adjusting the volume level of an audio file.
 * Choose 1 task only based on your confidence ⭣
-    + [Filter (less)](/)  applies basic image filters, such as grayscale or blur.
-    + [Filter (more)](/)  applies more advanced image filters, such as edge detection.
-* [Recover](/)  is about recovering deleted JPEG files.
+    + [Filter (less)](/Week%2004/02-Filter/Filter-less/Filter-less.c)  applies basic image filters, such as grayscale or blur.
+    + [Filter (more)](/Week%2004/02-Filter/Filter-more/Filter-more.c)  applies more advanced image filters, such as edge detection.
+* [Recover](/Week%2004/03-Recover/Recover.c)  is about recovering deleted JPEG files.
