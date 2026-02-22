@@ -15,3 +15,10 @@
 These works are based on the original fundamentals of the course, but I focus on 
 explaining my own approach to coding what each part of the code does, how it works, and why it is written that way.
 I don’t explain the code line by line while running it, because these programs are not something you just run once and get a final answer. There is no single “correct” solution. Instead, my code is shared as a reference and learning guideline that others can adapt and improve on. ⚙️
+
+### 📋 There are 5 projects in total:
+* [Inheritance](/Week%2005/01-Inheritance/Inheritance.c) Modify the code to support a newer version of image files.
+* [Speller](/Week%2005/02-Speller) คือ Build a spell-checking program using data structures.
+
+* [Inheritance](/Week%2005/01-Inheritance/Inheritance.c) คือ เเก้โค้ดให้รองรับไฟล์ภาพในเวอร์ชันใหม่
+* [Speller](/Week%2005/02-Speller) คือ สร้างโปรแกรมตรวจคำสะกดด้วยโครงสร้างข้อมูล
