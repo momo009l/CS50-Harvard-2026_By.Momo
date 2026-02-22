@@ -15,3 +15,10 @@
 These works are based on the original fundamentals of the course, but I focus on 
 explaining my own approach to coding what each part of the code does, how it works, and why it is written that way.
 I don’t explain the code line by line while running it, because these programs are not something you just run once and get a final answer. There is no single “correct” solution. Instead, my code is shared as a reference and learning guideline that others can adapt and improve on. ☘️
+
+### 📋 There are 4 projects in total:
+* [Sort](/Week%2003/01-Sort/Sort.c) analyzes which sorting algorithm is being used. 
+* [Plurality](/Week%2003/02-Plurality/Plurality.c)  is a simple voting system (the candidate with the most votes wins).
+* Choose one of the following based on your confidence level ⭣
+    + [Runoff (more or less)](/Week%2003/03-Runoff%2Cmore%20or%20less/Runoff.c) is a ranked voting system that eliminates the lowest candidate step by step.
+    + [Tideman (very, very, very)](/Week%2003/03-Tideman%2Cvery%2C%20very%2C%20very/Tideman.c) is an advanced ranking system and very challenging.
