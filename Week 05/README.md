@@ -18,4 +18,4 @@ I don’t explain the code line by line while running it, because these programs
 
 ### 📋 There are 5 projects in total:
 * [Inheritance](/Week%2005/01-Inheritance/Inheritance.c) Modify the code to support a newer version of image files.
-* [Speller](/Week%2005/02-Speller) คือ Build a spell-checking program using data structures.
+* [Speller](/Week%2005/02-Speller) Build a spell-checking program using data structures.
