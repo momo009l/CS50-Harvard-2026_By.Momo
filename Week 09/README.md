@@ -7,8 +7,8 @@
 ไม่มีเฉลยเเต่ก็ลองเอาโค้ดเราไปใช้เป็นแนวทางได้ค่ะ 📊
 
 ### 📋 มีงานทั้งหมด 2 ชิ้น ดังนี้
-* [Birthdays](/) คือ 
-* [Finance](/) คือ 
+* [Birthdays](/Week%2009/01-Birthdays) คือ สร้างเว็บบันทึกวันเกิด
+* [Finance](/Week%2009/02-Finance) คือ สร้างเว็บจำลองซื้อขายหุ้น มีระบบสมัครสมาชิก
 
 ## 📃 English Translation (ฉบับแปลภาษาอังกฤษ)
 These works are based on the original fundamentals of the course, but I focus on 
@@ -16,5 +16,5 @@ explaining my own approach to coding what each part of the code does, how it wor
 I don’t explain the code line by line while running it, because these programs are not something you just run once and get a final answer. There is no single “correct” solution. Instead, my code is shared as a reference and learning guideline that others can adapt and improve on. 📊
 
 ### 📋 There are 2 projects in total:
-* [Birthdays](/)  
-* [Finance](/) 
+* [Birthdays](/Week%2009/01-Birthdays)  
+* [Finance](/Week%2009/02-Finance) 
