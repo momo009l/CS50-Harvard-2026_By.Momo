@@ -25,5 +25,7 @@ I don’t explain the code line by line while running it, because these programs
 * [Hello,World.](/Week%2001/01-Hello%2CWorld./hello.c) focuses on the basic structure of a C program.
 * [Hello,It’s Me.](/Week%2001/02-Hello%2CIt’s%20Me./Me.c) is about getting input from the user (in this case, from myself).
 * [Credit](/Week%2001/03-Credit/credit.c) covers conditions and logical reasoning.
-* [Mario](/Week%2001/04-Mario) demonstrates the use of loops and formatting, with two versions: less and more.
-* [Cash](/Week%2001/05-Cash) focuses on algorithmic thinking, also with two versions: less and more.
+* Choose one of the following based on your confidence level ⭣
+    + [Mario](/Week%2001/04-Mario) demonstrates the use of loops and formatting, with two versions: less and more.
+* Choose one of the following based on your confidence level ⭣
+    + [Cash](/Week%2001/05-Cash) focuses on algorithmic thinking, also with two versions: less and more.
