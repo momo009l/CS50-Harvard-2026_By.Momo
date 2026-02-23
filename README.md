@@ -151,70 +151,71 @@ CS50 teaches you how to think in a structured way, like a real problem-solver. T
   * [Hello,It’s Me.](/Week%2001/02-Hello%2CIt’s%20Me.)
   * [Credit](/Week%2001/03-Credit)
   * Mario
-    + [less](/Week%2001/04-Mario/01_Mario-less)
-    + [more](/Week%2001/04-Mario/02_Mario-more)
+    + [less](/Week%2001/04-Mario/01_Mario-less/mario-less.c)
+    + [more](/Week%2001/04-Mario/02_Mario-more/mario-more.c)
   * Cash
-    + [less](/Week%2001/05-Cash/01_Cash-less)
-    + [more](/Week%2001/05-Cash/02_Cash-more)
+    + [less](/Week%2001/05-Cash/01_Cash-less/Cash-less.c)
+    + [more](/Week%2001/05-Cash/02_Cash-more/Cash-more.c)
 
 
 📔 [Week 2 : Arrays](/Week%2002)
-  * [Scrabble](/)
-  * [Readability](/)
+  * [Scrabble](/Week%2002/01-Scrabble)
+  * [Readability](/Week%2002/02-Readability)
   * Caesar
-    + [less](/)
+    + [less](/Week%2002/03-Caesar%2Cless/Caesar-less.c)
   * Substitution
-    + [more](/)
+    + [more](/Week%2002/03-Substitution%2Cmore/Substitution-more.c)
 
  
 📔 [Week 3 : Algorithms](/Week%2003)
-  * [Sort](/)
-  * [Plurality](/)
+  * [Sort](/Week%2003/01-Sort)
+  * [Plurality](/Week%2003/02-Plurality)
   * Runoff
-    + [more or less](/)
+    + [more or less](/Week%2003/03-Runoff%2Cmore%20or%20less/Runoff.c)
   * Tideman
-    + [very, very, very](/)
+    + [very, very, very](/Week%2003/03-Tideman%2Cvery%2C%20very%2C%20very/Tideman.c)
 
 
 📔 [Week 4 : Memory](/Week%2004)
-  * [Volume](/)
+  * [Volume](/Week%2004/01-Volume)
   * Filter 
-    + [less](/)
-    + [more](/)
-  * [Recover](/)
+    + [less](/Week%2004/02-Filter/Filter-less/Filter-less.c)
+    + [more](/Week%2004/02-Filter/Filter-more/Filter-more.c)
+  * [Recover](/Week%2004/03-Recover)
 
 
 📔 [Week 5 :  Data Structures](/Week%2005)
-  * [Inheritance](/)
-  * [Speller](/)
+  * [Inheritance](/Week%2005/01-Inheritance)
+  * [Speller](/Week%2005/02-Speller)
 
 
 📔 [Week 6 :  Python](/Week%2006)
-  * [Hello](/)
+  * [Hello](/Week%2006/01-Hello)
   * Mario  
-    + [less](/)
-    + [more](/)
+    + [less](/Week%2006/02-Mario%2CPython%20/01_Mario-Less%2Cpython/Mario-Less.py)
+    + [more](/Week%2006/02-Mario%2CPython%20/02_Mario-More%2Cpython/Mario-More.py)
   * Cash
-    + [less](/)
-    + [more](/)
-  * [Readability](/)
-  * [DNA](/)
+    + [less](/Week%2006/03-Cash%2CPython/Cash.py)
+  * Credit
+    + [more](/Week%2006/04-Credit%2CPython%20/Credit.py)
+  * [Readability](/Week%2006/05-Readability%2CPython)
+  * [DNA](/Week%2006/06-DNA)
 
 
 📔 [Week 7 :  SQL](/Week%2007)
-  * [Songs](/)
-  * [Movies](/)
-  * [Fiftyville](/)
+  * [Songs](/Week%2007/01-Songs)
+  * [Movies](/Week%2007/02-Movies)
+  * [Fiftyville](/Week%2007/03-Fiftyville)
 
 
-📔 [Week 8 :  HTML, CSS, JavaScript](/Week%2008)
-  * [Trivia](/)
-  * [Homepage](/)
+📔 [สัปดาห์ 8 :  HTML, CSS, JavaScript](/Week%2008)
+  * [Trivia](/Week%2008/01-Trivia)
+  * [Homepage](/Week%2008/02-Homepage)
 
 
 📔 [Week 9 :  Flask](/Week%2009)
-  * [Birthdays](/)
-  * [Finance](/)
+  * [Birthdays](/Week%2009/01-Birthdays)
+  * [Finance](/Week%2009/02-Finance)
 
 
 📔 [Week 10 :  The End](/Week%2010)
