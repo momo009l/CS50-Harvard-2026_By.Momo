@@ -47,11 +47,11 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
   * [Hello,It’s Me.](/Week%2001/02-Hello%2CIt’s%20Me.)
   * [Credit](/Week%2001/03-Credit)
   * Mario
-    + [less](/Week%2001/04-Mario/01_Mario-less)
-    + [more](/Week%2001/04-Mario/02_Mario-more)
+    + [less](/Week%2001/04-Mario/01_Mario-less/mario-less.c)
+    + [more](/Week%2001/04-Mario/02_Mario-more/mario-more.c)
   * Cash
-    + [less](/Week%2001/05-Cash/01_Cash-less)
-    + [more](/Week%2001/05-Cash/02_Cash-more)
+    + [less](/Week%2001/05-Cash/01_Cash-less/Cash-less.c)
+    + [more](/Week%2001/05-Cash/02_Cash-more/Cash-more.c)
 
 
 📔 [สัปดาห์ 2 : Arrays](/Week%2002)
