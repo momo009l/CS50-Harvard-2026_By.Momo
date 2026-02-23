@@ -81,15 +81,15 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
 
 
 📔 [สัปดาห์ 5 :  Data Structures](/Week%2005)
-  * [Inheritance](/)
-  * [Speller](/)
+  * [Inheritance](/Week%2005/01-Inheritance)
+  * [Speller](/Week%2005/02-Speller)
 
 
 📔 [สัปดาห์ 6 :  Python](/Week%2006)
-  * [Hello](/)
+  * [Hello](/Week%2006/01-Hello)
   * Mario  
-    + [less](/)
-    + [more](/)
+    + [less](/Week%2006/02-Mario%2CPython%20/01_Mario-Less%2Cpython/Mario-Less.py)
+    + [more](/Week%2006/02-Mario%2CPython%20/02_Mario-More%2Cpython/Mario-More.py)
   * Cash
     + [less](/)
     + [more](/)
