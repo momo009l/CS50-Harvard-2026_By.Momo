@@ -16,5 +16,5 @@ explaining my own approach to coding what each part of the code does, how it wor
 I don’t explain the code line by line while running it, because these programs are not something you just run once and get a final answer. There is no single “correct” solution. Instead, my code is shared as a reference and learning guideline that others can adapt and improve on. 📊
 
 ### 📋 There are 2 projects in total:
-* [Birthdays](/Week%2009/01-Birthdays)  
-* [Finance](/Week%2009/02-Finance) 
+* [Birthdays](/Week%2009/01-Birthdays)  Build a web app to store and manage birthdays.
+* [Finance](/Week%2009/02-Finance) Build a stock trading web application with user registration and login.
