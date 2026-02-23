@@ -22,3 +22,15 @@
 These works are based on the original fundamentals of the course, but I focus on 
 explaining my own approach to coding what each part of the code does, how it works, and why it is written that way.
 I don’t explain the code line by line while running it, because these programs are not something you just run once and get a final answer. There is no single “correct” solution. Instead, my code is shared as a reference and learning guideline that others can adapt and improve on. 😴
+
+### 📋 There are 7 projects in total:
+* [Hello](/Week%2006/01-Hello/Hello.py) A basic introductory program.
+* Choose one of the following based on your confidence level ⭣
+    + [Mario (less)](/Week%2006/02-Mario%2CPython%20/01_Mario-Less%2Cpython/Mario-Less.py) Prints a right-aligned half pyramid.
+    + [Mario (more)](/Week%2006/02-Mario%2CPython%20/02_Mario-More%2Cpython/Mario-More.py) Prints a double pyramid.
+* Choose one of the following based on your confidence level ⭣
+    + [Cash (less)](/Week%2006/03-Cash%2CPython/Cash.py) Calculates the minimum number of coins needed for change.
+    + [Credit (more)](/Week%2006/04-Credit%2CPython%20/Credit.py) Validates credit card numbers.
+  
+* [Readability](/Week%2006/05-Readability%2CPython/Readability.py) Analyzes a text to determine its reading level.
+* [DNA](/Week%2006/06-DNA/DNA.py) Analyzes a person’s DNA sequence to find a match in a database.
