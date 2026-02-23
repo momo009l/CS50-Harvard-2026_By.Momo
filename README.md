@@ -91,10 +91,11 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
     + [less](/Week%2006/02-Mario%2CPython%20/01_Mario-Less%2Cpython/Mario-Less.py)
     + [more](/Week%2006/02-Mario%2CPython%20/02_Mario-More%2Cpython/Mario-More.py)
   * Cash
-    + [less](/)
-    + [more](/)
-  * [Readability](/)
-  * [DNA](/)
+    + [less](/Week%2006/03-Cash%2CPython/Cash.py)
+  * Credit
+    + [more](/Week%2006/04-Credit%2CPython%20/Credit.py)
+  * [Readability](/Week%2006/05-Readability%2CPython)
+  * [DNA](/Week%2006/06-DNA)
 
 
 📔 [สัปดาห์ 7 :  SQL](/Week%2007)
