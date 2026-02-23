@@ -99,19 +99,19 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
 
 
 📔 [สัปดาห์ 7 :  SQL](/Week%2007)
-  * [Songs](/)
-  * [Movies](/)
-  * [Fiftyville](/)
+  * [Songs](/Week%2007/01-Songs)
+  * [Movies](/Week%2007/02-Movies)
+  * [Fiftyville](/Week%2007/03-Fiftyville)
 
 
 📔 [สัปดาห์ 8 :  HTML, CSS, JavaScript](/Week%2008)
-  * [Trivia](/)
-  * [Homepage](/)
+  * [Trivia](/Week%2008/01-Trivia)
+  * [Homepage](/Week%2008/02-Homepage)
 
 
 📔 [สัปดาห์ 9 :  Flask](/Week%2009)
-  * [Birthdays](/)
-  * [Finance](/)
+  * [Birthdays](/Week%2009/01-Birthdays)
+  * [Finance](/Week%2009/02-Finance)
 
 
 📔 [สัปดาห์ 10 :  The End](/Week%2010)
