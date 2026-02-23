@@ -16,5 +16,5 @@ explaining my own approach to coding what each part of the code does, how it wor
 I don’t explain the code line by line while running it, because these programs are not something you just run once and get a final answer. There is no single “correct” solution. Instead, my code is shared as a reference and learning guideline that others can adapt and improve on. 🚑
 
 ### 📋 There are 2 projects in total:
-* [Trivia](/Week%2008/01-Trivia) 
-* [Homepage](/Week%2008/02-Homepage) 
+* [Trivia](/Week%2008/01-Trivia) is a web based quiz game where users answer questions.
+* [Homepage](/Week%2008/02-Homepage) is a personal website created by yourself.
