@@ -14,3 +14,7 @@
 These works are based on the original fundamentals of the course, but I focus on 
 explaining my own approach to coding what each part of the code does, how it works, and why it is written that way.
 I don’t explain the code line by line while running it, because these programs are not something you just run once and get a final answer. There is no single “correct” solution. Instead, my code is shared as a reference and learning guideline that others can adapt and improve on. 📊
+
+### 📋 There are 2 projects in total:
+* [Birthdays](/)  
+* [Finance](/) 
