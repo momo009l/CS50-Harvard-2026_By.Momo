@@ -55,29 +55,29 @@ CS50 Study Log (Thai/English) | บันทึกการเรียน CS50 
 
 
 📔 [สัปดาห์ 2 : Arrays](/Week%2002)
-  * [Scrabble](/)
-  * [Readability](/)
+  * [Scrabble](/Week%2002/01-Scrabble)
+  * [Readability](/Week%2002/02-Readability)
   * Caesar
-    + [less](/)
+    + [less](/Week%2002/03-Caesar%2Cless/Caesar-less.c)
   * Substitution
-    + [more](/)
+    + [more](/Week%2002/03-Substitution%2Cmore/Substitution-more.c)
 
  
 📔 [สัปดาห์ 3 : Algorithms](/Week%2003)
-  * [Sort](/)
-  * [Plurality](/)
+  * [Sort](/Week%2003/01-Sort)
+  * [Plurality](/Week%2003/02-Plurality)
   * Runoff
-    + [more or less](/)
+    + [more or less](/Week%2003/03-Runoff%2Cmore%20or%20less/Runoff.c)
   * Tideman
-    + [very, very, very](/)
+    + [very, very, very](/Week%2003/03-Tideman%2Cvery%2C%20very%2C%20very/Tideman.c)
 
 
 📔 [สัปดาห์ 4 : Memory](/Week%2004)
-  * [Volume](/)
+  * [Volume](/Week%2004/01-Volume)
   * Filter 
-    + [less](/)
-    + [more](/)
-  * [Recover](/)
+    + [less](/Week%2004/02-Filter/Filter-less/Filter-less.c)
+    + [more](/Week%2004/02-Filter/Filter-more/Filter-more.c)
+  * [Recover](/Week%2004/03-Recover)
 
 
 📔 [สัปดาห์ 5 :  Data Structures](/Week%2005)
